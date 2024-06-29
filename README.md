@@ -37,7 +37,7 @@ library_app/
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/hulasozdemir/library_app_CRUD_demo.git
 cd library_app
 ```
 
